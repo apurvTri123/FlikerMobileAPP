@@ -1,0 +1,7 @@
+{
+  "name": "PicViewr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
